@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Users/CKatyal22/Desktop/NanoscopicKnight/NanoscopicKnight/Content/Font.xml</SourceFile>
+  <SourceTime>2018-12-08T11:35:46-05:00</SourceTime>
+  <DestFile>D:/Users/CKatyal22/Desktop/NanoscopicKnight/NanoscopicKnight/Content/bin/WindowsStoreApp/Font.xnb</DestFile>
+  <DestTime>2021-03-28T14:41:01.1524642-04:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

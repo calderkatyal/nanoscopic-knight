@@ -1,0 +1,11 @@
+/out:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\intermediate\\"
+/ref:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\intermediate\TransformedSRWR"
+/ref:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\in"
+/ref:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\in\\"
+/ref:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\in\\"
+/ref:"D:\Users\CKatyal22\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\lib\Private\\"
+/ref:"D:\Users\CKatyal22\Desktop\NanoscopicKnight\NanoscopicKnight\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"D:\Users\CKatyal22\.nuget\packages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\csc"

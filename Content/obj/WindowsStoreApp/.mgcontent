@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Users/CKatyal22/Desktop/NanoscopicKnight/NanoscopicKnight/Content/Font.xml</File>
+    <File>D:/Users/CKatyal22/Desktop/NanoscopicKnight/NanoscopicKnight/Content/basicAntibodyFire.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
